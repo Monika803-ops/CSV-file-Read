@@ -40,5 +40,3 @@ The objective of this task was to learn how to read data from a file, process it
 
 
 ---
-
-If you want, I can also **add a short “How to Run” section** so it’s ready to submit as a full internship documentation. Do you want me to do that?
